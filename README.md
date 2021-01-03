@@ -29,21 +29,21 @@
 
 ---
 
-:zap: GitHub 狀態
+<span style="text-align: left"> :zap: GitHub 狀態 </span>
 
 <img align="left" alt="TszHong's GitHub 狀態" src="https://github-readme-stats.vercel.app/api?username=TszHong0411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
-:zap: 使用語言
+<span style="text-align: left"> :zap: 使用語言 </span>
 
 <img align="left" alt="TszHong's 使用語言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TszHong0411&layout=compact"/>
 
 
 
-:zap: 編碼狀態
+<span style="text-align: left"> :zap: 編碼狀態 </span>
 
 
 
-:zap: 探訪者
+<span style="text-align: left"> :zap: 探訪者 </span>
 
 <img align="left" alt="探訪者" src="https://visitor-badge.glitch.me/badge?page_id=tszhong0411.tszhong0411">
 
