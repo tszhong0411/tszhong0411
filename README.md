@@ -20,14 +20,18 @@
 
 社交：
 
+<p align="left">
 <img src="https://img.shields.io/github/followers/tszhong0411?label=Followers&style=social">
 <img src="https://img.shields.io/github/stars/tszhong0411/tszhong0411.github.io?style=social">
+</p>
 
 <br>
 <br>
 
+<p align="left">
 <img src="https://img.shields.io/github/forks/tszhong0411/tszhong0411.github.io?label=Forks&style=social">
 <img src="https://img.shields.io/github/watchers/tszhong0411/tszhong0411.github.io?label=Watchers&style=social">
+</p>
 
 ---
 
