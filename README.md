@@ -44,7 +44,7 @@
 
 ### :telephone_receiver: 聯絡我:
 
-[<img align="left" alt="TszHonglai" width="22px" src="https://tszhong0411.github.io/js/website.svg"/>][website]
+[<img align="left" alt="TszHonglai | website" width="22px" src="https://tszhong0411.github.io/js/website.svg"/>][website]
 
 [<img align="left" alt="TszHonglai | YouTube" width="22px" src="https://tszhong0411.github.io/js/youtube.svg"/>][youtube]
 
@@ -53,6 +53,8 @@
 [<img align="left" alt="TszHonglai | LinkedIn" width="22px" src="https://tszhong0411.github.io/js/linkedin.svg"/>][linkedin]
 
 [<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/js/instagram.svg"/>][instagram]
+
+[<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/js/facebook.svg"/>][facebook]
 
 
 <br>
@@ -115,3 +117,4 @@ No Activity tracked this Week
 [youtube]: https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q
 [instagram]: https://www.instagram.com/tszhong0411/
 [linkedin]: https://www.linkedin.com/in/tsz-hong-lai-b4976618b/
+[facebook]: https://www.facebook.com/tszhonglai.0411
