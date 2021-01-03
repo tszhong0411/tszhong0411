@@ -1,8 +1,36 @@
 ﻿###  嗨，您好, 我是 Tsz Hong Lai
 
-這是我的個人網站:
+這是我的個人網站：
 
 [TszHong's Blog][website] 👋
+
+<br>
+<br>
+
+技能：
+
+<img src="https://img.shields.io/badge/-HTML-red">
+&nbsp
+<img src="https://img.shields.io/badge/-CSS-blue">
+&nbsp
+<img src="https://img.shields.io/badge/-Javascript-yellow">
+
+<br>
+<br>
+
+
+社交：
+
+<img src="https://img.shields.io/github/followers/tszhong0411?label=Followers&style=social">
+&nbsp
+<img src="https://img.shields.io/github/stars/tszhong0411/tszhong0411.github.io?style=social">
+
+<br>
+<br>
+
+<img src="https://img.shields.io/github/forks/tszhong0411/tszhong0411.github.io?label=Forks&style=social">
+&nbsp
+<img src="https://img.shields.io/github/watchers/tszhong0411/tszhong0411.github.io?label=Watchers&style=social">
 
 ---
 
@@ -12,7 +40,7 @@
 
 ---
 
-### 聯絡我:
+### :telephone_receiver: 聯絡我:
 
 [<img align="left" alt="TszHonglai" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -29,7 +57,7 @@
 
 ---
 
-:zap: GitHub 狀態
+### :heart_eyes: GitHub 狀態
 
 <img align="left" alt="TszHong's GitHub 狀態" src="https://github-readme-stats.vercel.app/api?username=TszHong0411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
@@ -44,7 +72,7 @@
 <br>
 <br>
 
-:zap: 使用語言
+### :zap: 使用語言
 
 <img align="left" alt="TszHong's 使用語言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TszHong0411&layout=compact"/>
 
@@ -59,7 +87,7 @@
 <br>
 <br>
 
-:zap: 編碼狀態
+### :computer: 編碼狀態
 
 <!--START_SECTION:waka-->
 ```text
@@ -75,7 +103,7 @@ No Activity tracked this Week
 <br>
 <br>
 
-:kissing_smiling_eyes: 探訪者
+### :kissing_smiling_eyes: 探訪者
 
 <img align="left" alt="探訪者" src="https://visitor-badge.glitch.me/badge?page_id=tszhong0411.tszhong0411">
 
