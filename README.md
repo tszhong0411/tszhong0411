@@ -71,35 +71,21 @@
 
 ---
 
-### :heart_eyes: GitHub 狀態
-
-<img align="left" alt="TszHong's GitHub 狀態" src="https://github-readme-stats.vercel.app/api?username=TszHong0411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+### :heart_eyes: GitHub 分析
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-### :zap: 使用語言
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TszHong0411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TszHong0411&layout=compact"/>
+</a>
+</p>
 
-<img align="left" alt="TszHong's 使用語言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TszHong0411&layout=compact"/>
+
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### :computer: 編碼狀態
 
