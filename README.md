@@ -9,11 +9,12 @@
 
 技能：
 
+<p align="left">
 <img src="https://img.shields.io/badge/-HTML-red">
 <img src="https://img.shields.io/badge/-CSS-blue">
 <img src="https://img.shields.io/badge/-Javascript-yellow">
+</p>
 
-<br>
 <br>
 
 
