@@ -114,6 +114,10 @@ No Activity tracked this Week
 <br>
 <br>
 
+### :star: 其他狀態：
+
+<img align="left" alt="Other stats" src="https://github-profile-trophy.vercel.app/?username=tszhong0411">
+
 <img align="left" alt="A smile face" src="https://tszhong0411.github.io/js/smile.png">
 
 [website]: https://tszhong0411.github.io
