@@ -20,19 +20,29 @@
 <br>
 
 
-社交：
+### :yum: 主要狀態：
 
-<p align="left">
-<img src="https://img.shields.io/github/followers/tszhong0411?label=Followers&style=social">
-&nbsp
-<img src="https://img.shields.io/github/stars/tszhong0411/tszhong0411.github.io?style=social">
-</p>
+<img align="left" alt="Main status" src="https://metrics.lecoq.io/tszhong0411">
 
-<p align="left">
-<img src="https://img.shields.io/github/forks/tszhong0411/tszhong0411.github.io?label=Forks&style=social">
-&nbsp
-<img src="https://img.shields.io/github/watchers/tszhong0411/tszhong0411.github.io?label=Watchers&style=social">
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ---
 
