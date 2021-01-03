@@ -10,9 +10,7 @@
 技能：
 
 <img src="https://img.shields.io/badge/-HTML-red">
-&nbsp
 <img src="https://img.shields.io/badge/-CSS-blue">
-&nbsp
 <img src="https://img.shields.io/badge/-Javascript-yellow">
 
 <br>
@@ -22,14 +20,12 @@
 社交：
 
 <img src="https://img.shields.io/github/followers/tszhong0411?label=Followers&style=social">
-&nbsp
 <img src="https://img.shields.io/github/stars/tszhong0411/tszhong0411.github.io?style=social">
 
 <br>
 <br>
 
 <img src="https://img.shields.io/github/forks/tszhong0411/tszhong0411.github.io?label=Forks&style=social">
-&nbsp
 <img src="https://img.shields.io/github/watchers/tszhong0411/tszhong0411.github.io?label=Watchers&style=social">
 
 ---
