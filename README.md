@@ -111,6 +111,11 @@ No Activity tracked this Week
 
 <img align="left" alt="探訪者" src="https://visitor-badge.glitch.me/badge?page_id=tszhong0411.tszhong0411">
 
+<br>
+<br>
+
+<img align="left" alt="A smile face" src="https://tszhong0411.github.io/js/smile.png">
+
 [website]: https://tszhong0411.github.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/TszhongLai0411
