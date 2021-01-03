@@ -54,7 +54,7 @@
 
 [<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/js/instagram.svg"/>][instagram]
 
-[<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/js/facebook.svg"/>][facebook]
+[<img align="left" alt="TszHonglai | Instagram" width="15px" src="https://tszhong0411.github.io/js/facebook.svg"/>][facebook]
 
 
 <br>
