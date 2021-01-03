@@ -36,7 +36,7 @@
 
 ---
 
-### Spotify 播放中 🎧
+### 🎧 Spotify 播放中
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="TszHong Spotify Playing" width="350" />](https://open.spotify.com/user/31inyuvv4ufqugk2b4wla3s3gmlq)
 
