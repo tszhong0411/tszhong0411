@@ -28,9 +28,6 @@
 <img src="https://img.shields.io/github/stars/tszhong0411/tszhong0411.github.io?style=social">
 </p>
 
-<br>
-<br>
-
 <p align="left">
 <img src="https://img.shields.io/github/forks/tszhong0411/tszhong0411.github.io?label=Forks&style=social">
 &nbsp
