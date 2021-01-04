@@ -91,7 +91,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 December, 2020 - 03 January, 2021
+
+Markdown   2 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.90 % 
+HTML       1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.33 % 
+CSS        54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 % 
+YAML       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 ```
 <!--END_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@8747fe60-b1f6-4787-b726-bfea4896868a/1010b883-6be5-47b3-8968-f24310f4b9ca.svg"></embed></figure>
