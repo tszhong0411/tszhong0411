@@ -91,12 +91,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
-Markdown   2 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.97 % 
-HTML       1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.29 % 
-CSS        54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-YAML       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Markdown   2 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.87 % 
+HTML       1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.20 % 
+CSS        54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
+YAML       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 <!--END_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@8747fe60-b1f6-4787-b726-bfea4896868a/1010b883-6be5-47b3-8968-f24310f4b9ca.svg"></embed></figure>
