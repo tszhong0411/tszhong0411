@@ -91,13 +91,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
-HTML       2 hrs 58 mins   ██████████████▒░░░░░░░░░░   57.16 % 
-CSS        1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.57 % 
-Markdown   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Ruby       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-YAML       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+HTML       3 hrs 2 mins    █████████████░░░░░░░░░░░░   51.69 % 
+CSS        1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.40 % 
+Ruby       37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Markdown   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+YAML       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@8747fe60-b1f6-4787-b726-bfea4896868a/1010b883-6be5-47b3-8968-f24310f4b9ca.svg"></embed></figure>
