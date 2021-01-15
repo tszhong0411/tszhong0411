@@ -54,17 +54,17 @@
 
 ### :telephone_receiver: 聯絡我:
 
-[<img align="left" alt="TszHonglai | website" width="22px" src="https://tszhong0411.github.io/js/website.svg"/>][website]
+[<img align="left" alt="TszHonglai | website" width="22px" src="https://tszhong0411.github.io/files/website.svg"/>][website]
 
-[<img align="left" alt="TszHonglai | YouTube" width="22px" src="https://tszhong0411.github.io/js/youtube.svg"/>][youtube]
+[<img align="left" alt="TszHonglai | YouTube" width="22px" src="https://tszhong0411.github.io/files/youtube.svg"/>][youtube]
 
-[<img align="left" alt="TszHonglai | Twitter" width="22px" src="https://tszhong0411.github.io/js/twitter.svg"/>][twitter]
+[<img align="left" alt="TszHonglai | Twitter" width="22px" src="https://tszhong0411.github.io/files/twitter.svg"/>][twitter]
 
-[<img align="left" alt="TszHonglai | LinkedIn" width="22px" src="https://tszhong0411.github.io/js/linkedin.svg"/>][linkedin]
+[<img align="left" alt="TszHonglai | LinkedIn" width="22px" src="https://tszhong0411.github.io/files/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/js/instagram.svg"/>][instagram]
+[<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/files/instagram.svg"/>][instagram]
 
-[<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/js/facebook.svg"/>][facebook]
+[<img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/files/facebook.svg"/>][facebook]
 
 
 <br>
@@ -128,7 +128,7 @@ Markdown   1 hr 27 mins    ███▒░░░░░░░░░░░░░�
 <img align="left" alt="Other stats" src="https://github-profile-trophy.vercel.app/?username=tszhong0411">
 
 
-<img align="left" alt="A smile face" src="https://tszhong0411.github.io/js/smile.png">
+<img align="left" alt="A smile face" src="https://tszhong0411.github.io/files/smile.png">
 
 [website]: https://tszhong0411.github.io
 [course]: http://vsCodeHero.com
