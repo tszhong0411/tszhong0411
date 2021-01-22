@@ -7,6 +7,10 @@
 <br>
 <br>
 
+### :gem: 投入網站時間：
+
+[![time tracker](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io.svg)](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io)
+
 ### :baby: 技能：
 
 <p align="left">
