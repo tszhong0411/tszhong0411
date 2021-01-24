@@ -95,13 +95,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
-Markdown     10 hrs 19 mins  ███████▒░░░░░░░░░░░░░░░░░   28.74 % 
-YAML         8 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
-EJS          8 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 % 
-JavaScript   2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-CSS          2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Markdown     8 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
+YAML         8 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
+EJS          7 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+JavaScript   2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS          2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 <!--END_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@8747fe60-b1f6-4787-b726-bfea4896868a/1010b883-6be5-47b3-8968-f24310f4b9ca.svg"></embed></figure>
