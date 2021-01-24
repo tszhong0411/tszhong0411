@@ -11,6 +11,10 @@
 
 [![time tracker](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io.svg)](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io)
 
+### :100: 語言分析：
+
+<img src="https://wakatime.com/share/@TszHong/af4b2a1b-8bc7-4078-becd-e336955b9d0b.png">
+
 ### :baby: 技能：
 
 <p align="left">
