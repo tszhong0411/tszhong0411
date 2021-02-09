@@ -137,7 +137,7 @@ JavaScript   1 hr 45 mins    █░░░░░░░░░░░░░░░░
 
 <img align="left" alt="A smile face" src="https://tszhong0411.github.io/files/smile.png">
 
-[website]: https://tszhong0411.github.io
+[website]: https://tszhong0411.vercel.app
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/TszhongLai0411
 [youtube]: https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q
