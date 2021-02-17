@@ -86,4 +86,4 @@ CSS        2 hrs 9 mins    █▓░░░░░░░░░░░░░░░�
 ![](https://github-profile-trophy.vercel.app/?username=tszhong0411)
 
 
-![](https://tszhong0411.github.io/files/smile.png)
+![](https://cdn.jsdelivr.net/gh/tszhong0411/image/smile.png)
