@@ -38,8 +38,6 @@
 
 ## :telephone_receiver: 聯絡我:
 
-<a href="https://tszhong0411.vercel.app" target="_blank"><img alt="TszHonglai | website" width="22px" src="https://tszhong0411.github.io/files/website.svg"></a>
-
 <a href="https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q" target="_blank"><img align="left" alt="TszHonglai | YouTube" width="22px" src="https://tszhong0411.github.io/files/youtube.svg"></a>
 
 <a href="https://twitter.com/TszhongLai0411" target="_blank"><img align="left" alt="TszHonglai | Twitter" width="22px" src="https://tszhong0411.github.io/files/twitter.svg"></a>
@@ -49,6 +47,8 @@
 <a href="https://www.instagram.com/tszhong0411/" target="_blank"><img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/files/instagram.svg"></a>
 
 <a href="https://www.facebook.com/tszhonglai.0411" target="_blank"><img align="left" alt="TszHonglai | Instagram" width="22px" src="https://tszhong0411.github.io/files/facebook.svg"></a>
+
+<a href="https://tszhong0411.vercel.app" target="_blank"><img alt="TszHonglai | website" width="22px" src="https://tszhong0411.github.io/files/website.svg"></a>
 
 ---
 
@@ -79,8 +79,7 @@ CSS        2 hrs 9 mins    █▓░░░░░░░░░░░░░░░�
 
 <img align="left" alt="探訪者" src="https://visitor-badge.glitch.me/badge?page_id=tszhong0411.tszhong0411">
 
-<br>
-<br>
+---
 
 ## :star: 其他狀態：
 
