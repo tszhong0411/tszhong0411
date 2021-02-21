@@ -4,7 +4,7 @@
 
 [TszHong's Blog](https://tszhong0411.vercel.app) 👋
 
-## :gem: Invest time in the website：
+## :gem: Invest time in the website
 
 Old website：
 ![](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io.svg) &nbsp;(The repository was rebuilt and the last record was about 91 hours)
@@ -12,11 +12,11 @@ Old website：
 New website：
 ![](https://wakatime.com/badge/github/TszHong0411/blog.svg)
 
-## :100: Language analysis：
+## :100: Language analysis
 
 ![](https://wakatime.com/share/@TszHong/af4b2a1b-8bc7-4078-becd-e336955b9d0b.png)
 
-## :baby: Skill:
+## :baby: Skill
 
 ![](https://img.shields.io/badge/-HTML-red)
 &nbsp;
@@ -24,7 +24,7 @@ New website：
 &nbsp;
 ![](https://img.shields.io/badge/-Javascript-yellow)
 
-## :yum: Main status:
+## :yum: Main status
 
 ![](https://metrics.lecoq.io/tszhong0411)
 
@@ -36,7 +36,7 @@ New website：
 
 ---
 
-## :telephone_receiver: Contact me:
+## :telephone_receiver: Contact me
 
 <a href="https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q" target="_blank"><img align="left" alt="TszHonglai | YouTube" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/youtube.svg"></a>
 
@@ -81,7 +81,7 @@ JSON       49 mins         █░░░░░░░░░░░░░░░░�
 
 ---
 
-## :star: Other status:
+## :star: Other status
 
 ![](https://github-profile-trophy.vercel.app/?username=tszhong0411)
 
