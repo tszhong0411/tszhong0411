@@ -7,7 +7,7 @@
 ## :gem: 投入網站時間：
 
 舊網址：
-![](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io.svg)
+![](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io.svg) &nbsp;最後紀錄約 91 小時
 
 新網址：
 ![](https://wakatime.com/badge/github/TszHong0411/blog.svg)
