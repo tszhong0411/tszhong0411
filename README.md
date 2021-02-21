@@ -65,13 +65,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-YAML       10 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   32.89 % 
-Markdown   6 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Pug        5 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
-HTML       3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-CSS        2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Markdown   6 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   36.75 % 
+YAML       4 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.49 % 
+PHP        1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+HTML       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+JSON       49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 <!--END_SECTION:waka-->
 
