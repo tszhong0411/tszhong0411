@@ -36,12 +36,6 @@ New website：
 &nbsp;
 ![](https://img.shields.io/badge/-PUG-yellow)
 &nbsp;
-![](https://img.shields.io/badge/-YAML-red)
-&nbsp;
-![](https://img.shields.io/badge/-Stylus-blue)
-&nbsp;
-![](https://img.shields.io/badge/-PUG-yellow)
-&nbsp;
 ![](https://img.shields.io/badge/-Markdown-red)
 &nbsp;
 ![](https://img.shields.io/badge/-JSON-blue)
