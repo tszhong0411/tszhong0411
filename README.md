@@ -93,13 +93,13 @@ New website：
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 February, 2021 - 06 March, 2021
+Week: 28 February, 2021 - 07 March, 2021
 
-Markdown     8 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-YAML         8 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-JavaScript   6 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 % 
-EJS          3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-HTML         2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown     10 hrs 1 min    ██████▓░░░░░░░░░░░░░░░░░░   27.22 % 
+YAML         7 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+JavaScript   7 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.18 % 
+EJS          3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+HTML         2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 <!--END_SECTION:waka-->
 
