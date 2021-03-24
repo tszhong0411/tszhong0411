@@ -93,9 +93,10 @@ New website：
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 March, 2021 - 22 March, 2021
+Week: 16 March, 2021 - 23 March, 2021
 
-JavaScript   11 mins         ████████████████████████░   96.56 % 
+JavaScript   11 mins         █████████████████▓░░░░░░░   71.01 % 
+Markdown     4 mins          ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 ```
 <!--END_SECTION:waka-->
 
