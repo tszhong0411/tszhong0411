@@ -93,12 +93,11 @@ New website：
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 March, 2021 - 27 March, 2021
+Week: 21 March, 2021 - 28 March, 2021
 
-CSS          22 mins         ███████████▒░░░░░░░░░░░░░   44.76 % 
-JavaScript   11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Markdown     9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.81 % 
-HTML         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+CSS        22 mins         ███████████████░░░░░░░░░░   59.35 % 
+Markdown   9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.94 % 
+HTML       5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 <!--END_SECTION:waka-->
 
