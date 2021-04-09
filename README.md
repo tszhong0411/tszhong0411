@@ -93,7 +93,11 @@ New website：
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 April, 2021 - 08 April, 2021
+
+CSS        35 mins         ███████████████▓░░░░░░░░░   62.41 % 
+YAML       19 mins         ████████▓░░░░░░░░░░░░░░░░   34.60 % 
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 <!--END_SECTION:waka-->
 
