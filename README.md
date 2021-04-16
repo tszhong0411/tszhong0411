@@ -93,12 +93,9 @@ New website：
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2021 - 14 April, 2021
+Week: 08 April, 2021 - 15 April, 2021
 
-CSS        35 mins         ███████████████▒░░░░░░░░░   61.23 % 
-YAML       19 mins         ████████▒░░░░░░░░░░░░░░░░   33.95 % 
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JSON   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
