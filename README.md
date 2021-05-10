@@ -2,7 +2,7 @@
 
 ### This is my personal website：
 
-[TszHong's Blog](https://tszhong0411.vercel.app) 👋
+[TszHong's Blog](https://tszhong.top) 👋
 
 ## :bookmark_tabs: Sololearn Certificate
 
