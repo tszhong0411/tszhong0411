@@ -10,14 +10,6 @@
 
 <img width="500px" src="https://www.sololearn.com/Certificate/1014-21156223/jpg">
 
-## :gem: Invest time in the website
-
-Old website：
-![](https://wakatime.com/badge/github/TszHong0411/tszhong0411.github.io.svg) &nbsp;(The repository was rebuilt and the last record was about 91 hours)
-
-New website：
-![](https://wakatime.com/badge/github/TszHong0411/blog.svg)
-
 ## :100: Language analysis
 
 ![](https://wakatime.com/share/@TszHong/af4b2a1b-8bc7-4078-becd-e336955b9d0b.png)
