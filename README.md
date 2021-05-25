@@ -85,7 +85,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 May, 2021 - 23 May, 2021
+Week: 17 May, 2021 - 24 May, 2021
 
 YAML         1 hr 1 min      ███████░░░░░░░░░░░░░░░░░░   28.30 % 
 JavaScript   45 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 % 
