@@ -85,7 +85,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 May, 2021 - 26 May, 2021
+Week: 20 May, 2021 - 27 May, 2021
 
 Python       1 hr 7 mins     ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
 YAML         1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
