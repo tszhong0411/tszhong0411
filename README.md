@@ -24,25 +24,11 @@
 &nbsp;
 ![](https://img.shields.io/badge/-Python-red)
 &nbsp;
-![](https://img.shields.io/badge/-PHP-blue)
-&nbsp;
-![](https://img.shields.io/badge/-C-yellow)
-&nbsp;
 ![](https://img.shields.io/badge/-YAML-red)
-&nbsp;
-![](https://img.shields.io/badge/-Stylus-blue)
 &nbsp;
 ![](https://img.shields.io/badge/-PUG-yellow)
 &nbsp;
 ![](https://img.shields.io/badge/-Markdown-red)
-&nbsp;
-![](https://img.shields.io/badge/-JSON-blue)
-&nbsp;
-![](https://img.shields.io/badge/-Git-yellow)
-&nbsp;
-![](https://img.shields.io/badge/-SCSS-red)
-&nbsp;
-![](https://img.shields.io/badge/-EJS-blue)
 
 ## :yum: Main status
 
