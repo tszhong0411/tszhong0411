@@ -71,13 +71,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 May, 2021 - 06 June, 2021
+Week: 31 May, 2021 - 07 June, 2021
 
-Python       9 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.82 % 
-YAML         3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-JavaScript   3 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-HTML         2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Markdown     2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Python       6 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 % 
+JavaScript   6 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+CSS          4 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+HTML         4 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+YAML         3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 <!--END_SECTION:waka-->
 
