@@ -1,95 +1,32 @@
-﻿##  Hi, there. I am TszHong.
+﻿<h1 align="center">Hi 👋, I'm Lai Tsz Hong</h1>
+<h3 align="center">I want to be a frontend developer. And I from Hong Kong.</h3>
 
-### This is my personal website：
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tszhong0411&label=Profile%20views&color=0e75b6&style=flat" alt="tszhong0411" /> </p>
 
-[TszHong's Blog](https://tszhong.top) 👋
+<p align="left"> <a href="https://twitter.com/tszhonglai0411" target="blank"><img src="https://img.shields.io/twitter/follow/tszhonglai0411?logo=twitter&style=for-the-badge" alt="tszhonglai0411" /></a> </p>
 
-## :bookmark_tabs: Sololearn Certificate
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
-### HTML
+- 👨‍💻 All of my projects are available at [https://blog.tszhong.top](https://blog.tszhong.top)
 
-<img width="500px" src="https://www.sololearn.com/Certificate/1014-21156223/jpg">
+- 📝 I regularly write articles on [https://tszhong.top](https://tszhong.top)
 
-## :100: Language analysis
+- 📫 How to reach me **info@tszhong.top**
 
-![](https://wakatime.com/share/@TszHong/af4b2a1b-8bc7-4078-becd-e336955b9d0b.png)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://dev.to/tszhong0411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://twitter.com/tszhonglai0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tszhonglai0411" height="30" width="40" /></a>
+<a href="https://fb.com/tszhonglai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tszhonglai" height="30" width="40" /></a>
+<a href="https://instagram.com/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tszhong lai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tszhong lai" height="30" width="40" /></a>
+<a href="/https://tszhong.top/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tszhong.top/atom.xml" height="30" width="40" /></a>
+</p>
 
-## :baby: Skill
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![](https://img.shields.io/badge/-HTML-red)
-&nbsp;
-![](https://img.shields.io/badge/-CSS-blue)
-&nbsp;
-![](https://img.shields.io/badge/-Javascript-yellow)
-&nbsp;
-![](https://img.shields.io/badge/-Python-red)
-&nbsp;
-![](https://img.shields.io/badge/-YAML-red)
-&nbsp;
-![](https://img.shields.io/badge/-PUG-yellow)
-&nbsp;
-![](https://img.shields.io/badge/-Markdown-red)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tszhong0411&show_icons=true&locale=en&layout=compact" alt="tszhong0411" /></p>
 
-## :yum: Main status
-
-![](https://metrics.lecoq.io/tszhong0411)
-
----
-
-## 🎧 Spotify is playing
-
-![](https://now-playing-codestackr.vercel.app/api/spotify-playing)
-
----
-
-## :telephone_receiver: Contact me
-
-<a href="https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q" target="_blank"><img align="left" alt="TszHonglai | YouTube" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/youtube.svg"></a>
-
-<a href="https://twitter.com/TszhongLai0411" target="_blank"><img align="left" alt="TszHonglai | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/twitter.svg"></a>
-
-<a href="https://www.linkedin.com/in/tsz-hong-lai-b4976618b/" target="_blank"><img align="left" alt="TszHonglai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/linkedin.svg"></a>
-
-<a href="https://www.instagram.com/tszhong0411/" target="_blank"><img align="left" alt="TszHonglai | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/instagram.svg"></a>
-
-<a href="https://www.facebook.com/tszhonglai.0411" target="_blank"><img align="left" alt="TszHonglai | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/facebook.svg"></a>
-
-<a href="https://tszhong0411.vercel.app" target="_blank"><img alt="TszHonglai | website" width="22px" src="https://cdn.jsdelivr.net/gh/tszhong0411/image/website.svg"></a>
-
----
-
-## :heart_eyes: GitHub analysis
-
-<a href="https://github.com/tszhong0411">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TszHong0411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TszHong0411&layout=compact"/>
-</a>
-
----
-
-## :computer: Coding status
-
-<!--START_SECTION:waka-->
-```text
-Week: 02 June, 2021 - 09 June, 2021
-
-JavaScript   8 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 % 
-Python       7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-HTML         6 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 % 
-CSS          5 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-YAML         4 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-```
-<!--END_SECTION:waka-->
-
-## :kissing_smiling_eyes: Visitors
-
-<img alt="探訪者" src="https://visitor-badge.glitch.me/badge?page_id=tszhong0411.tszhong0411">
-
----
-
-## :star: Other status
-
-![](https://github-profile-trophy.vercel.app/?username=tszhong0411)
-
-
-![](https://cdn.jsdelivr.net/gh/tszhong0411/image/smile.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tszhong0411&show_icons=true&locale=en" alt="tszhong0411" /></p>
