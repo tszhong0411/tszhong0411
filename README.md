@@ -21,7 +21,7 @@
 <a href="https://fb.com/tszhonglai.0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tszhonglai" height="30" width="40" /></a>
 <a href="https://instagram.com/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tszhong0411" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tszhong lai" height="30" width="40" /></a>
-<a href="/https://tszhong.top/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tszhong.top/atom.xml" height="30" width="40" /></a>
+<a href="https://tszhong.top/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tszhong.top/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
