@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at [https://blog.tszhong.top](https://blog.tszhong.top)
+- 👨‍💻 All of my projects are available at [https://tszhong.top](https://tszhong.top)
 
-- 📝 I regularly write articles on [https://tszhong.top](https://tszhong.top)
+- 📝 I regularly write articles on [https://blog.tszhong.top](https://blog.tszhong.top)
 
 - 📫 How to reach me **info@tszhong.top**
 
