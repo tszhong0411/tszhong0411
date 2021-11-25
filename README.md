@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [教學丨在 VMware 上安裝 Kali Linux丨VMware](https://www.youtube.com/watch?v=wtrerhdIlw0)
+- [教學丨免費啟用 Windows 10 / 11丨家用版 / 專業版 / 企業版丨Windows](https://www.youtube.com/watch?v=plk3w4uXiiw)
+- [教學丨在 VMware 上安裝 Windows 11丨VMware](https://www.youtube.com/watch?v=QPNDKe7CB0Y)
+- [教學丨在 VirtualBox 上安裝 Ubuntu 20.04丨VirtualBox](https://www.youtube.com/watch?v=le6psfoFRE0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
