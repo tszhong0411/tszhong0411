@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tszhong0411&show_icons=true&locale=en" alt="tszhong0411" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tszhong0411&" alt="tszhong0411" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tszhong0411&theme=tokyonight_duo" alt="tszhong0411" /></p>
