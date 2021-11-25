@@ -1,5 +1,7 @@
 name: Latest blog post workflow
 on:
+  watch:
+    types: started
   schedule:
     - cron: "0 * * * *"
 jobs:
