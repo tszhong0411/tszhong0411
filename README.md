@@ -17,10 +17,10 @@
 
 ### Latest videos on Youtube
 <!-- BLOG-POST-LIST:START -->
+- [教學丨Office free download and activate丨Office丨2022](https://www.youtube.com/watch?v=MF7KXDLD2NU)
+- [教學丨Office 免費下載和啟用丨Office丨2022](https://www.youtube.com/watch?v=E4h-wPd6iBk)
 - [教學丨免費啟用和下載 Luminar 4丨Luminar](https://www.youtube.com/watch?v=aTWJ_oyrIpI)
 - [教學丨在 VMware 上安裝 Kali Linux丨VMware](https://www.youtube.com/watch?v=wtrerhdIlw0)
-- [教學丨免費啟用 Windows 10 / 11丨家用版 / 專業版 / 企業版丨Windows](https://www.youtube.com/watch?v=plk3w4uXiiw)
-- [教學丨在 VMware 上安裝 Windows 11丨VMware](https://www.youtube.com/watch?v=QPNDKe7CB0Y)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
