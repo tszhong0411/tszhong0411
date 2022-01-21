@@ -17,10 +17,10 @@
 
 ### Latest videos on Youtube
 <!-- BLOG-POST-LIST:START -->
-- [🔴 Coding | 用 Next.js 製作我的新 Blog](https://www.youtube.com/watch?v=lCLhIxxlpdE)
 - [🔴 Coding | 開發多語言版本的好友測驗作弊器](https://www.youtube.com/watch?v=qUAE8Ht-0k8)
 - [教學丨Office free download and activate丨Office丨2022](https://www.youtube.com/watch?v=MF7KXDLD2NU)
 - [教學丨Office 免費下載和啟用丨Office丨2022](https://www.youtube.com/watch?v=E4h-wPd6iBk)
+- [教學丨免費啟用和下載 Luminar 4丨Luminar](https://www.youtube.com/watch?v=aTWJ_oyrIpI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
