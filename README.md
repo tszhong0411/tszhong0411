@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tszhong.top](https://tszhong.top)
 
-- 📝 I regularly write articles on [https://blog.tszhong.top](https://blog.tszhong.top)
+- 📝 I regularly write articles on [https://tszhong.top/blog](https://tszhong.top/blog)
 
 - 💬 Ask me about **react, html, css, javascript**
 
