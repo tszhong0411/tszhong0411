@@ -20,7 +20,7 @@
 - [CODM丨季初排位 Highlight #3](https://www.youtube.com/watch?v=8OkB_fO8SdU)
 - [教學丨免費下載和啟用 Internet Download Manager 6.40丨IDM](https://www.youtube.com/watch?v=2b3iWwk33aE)
 - [教學丨變回 Windows 10 右鍵選單樣式丨Windows](https://www.youtube.com/watch?v=eFe398iDmIc)
-- [🔴 Coding | 開發多語言版本的好友測驗作弊器](https://www.youtube.com/watch?v=qUAE8Ht-0k8)
+- [教學丨Office free download and activate丨Office丨2022](https://www.youtube.com/watch?v=MF7KXDLD2NU)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
