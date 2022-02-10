@@ -18,11 +18,10 @@
 ### Latest videos on Youtube
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Next.js 丨 next-auth 登入和登出丨小康](https://www.youtube.com/watch?v=D9YjiYAjE70)
-- [教學丨 How to download BeamNG.drive v0.24.1.1 for free in 2022 丨小康](https://www.youtube.com/watch?v=Fzxv4i9QRbQ)
-- [FIX 丨 Chrome 彈出窗口在虛擬機中顯示半透明丨小康](https://www.youtube.com/watch?v=G1FV_cgoo3s)
-- [教學丨 How to download Assetto Corsa 2014 for free in 2022 丨小康](https://www.youtube.com/watch?v=RZtH13RJIRI)
+- [Next.js丨next-auth 登入和登出丨小康](https://www.youtube.com/watch?v=D9YjiYAjE70)
+- [教學丨How to download BeamNG.drive v0.24.1.1  for free in 2022丨小康](https://www.youtube.com/watch?v=Fzxv4i9QRbQ)
+- [FIX丨Chrome 彈出窗口在虛擬機中顯示半透明丨小康](https://www.youtube.com/watch?v=G1FV_cgoo3s)
+- [教學丨How to download Assetto Corsa 2014 for free in 2022丨小康](https://www.youtube.com/watch?v=RZtH13RJIRI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
