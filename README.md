@@ -1,9 +1,12 @@
-﻿<h1 align="center">Hi 👋, I'm 小康</h1>
-<h3 align="center">Learning React, Next.js, vue, Node JS, Python</h3>
+<h1 align="center">Hi 👋, I'm 小康</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tszhong0411&label=Profile%20views&color=0e75b6&style=flat" alt="tszhong0411" /> </p>
+<p align="left">Github profile views:</p>
 
-<p align="left"> <a href="https://twitter.com/tszhonglai0411" target="blank"><img src="https://img.shields.io/twitter/follow/tszhonglai0411?logo=twitter&style=for-the-badge" alt="tszhonglai0411" /></a> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tszhong0411&label=Profile%20views&color=0e75b6&style=flat" alt="tszhong0411" /></p>
+
+<p align="left">Total code time:</p>
+
+<p align="left"><img src="https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg" alt="wakatime" /></p>
 
 - 🌱 I’m currently learning **React, Next.js, Python**
 
@@ -45,7 +48,5 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tszhong0411&show_icons=true&locale=en&layout=compact" alt="tszhong0411" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tszhong0411&show_icons=true&locale=en" alt="tszhong0411" /></p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tszhong0411&layout=compact&theme=react" alt="tszhong0411" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tszhong0411&theme=tokyonight_duo" alt="tszhong0411" /></p>
