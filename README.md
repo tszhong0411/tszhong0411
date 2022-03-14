@@ -7,11 +7,11 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%40tszhong0411-e5384e?style=for-the-badge&logo=instagram)](https://instagram.com/tszhong0411)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%40小康-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tszhonglai.0411)
-[![Website Badge](https://img.shields.io/badge/Website-honghong.me-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://honghong.me)
-[![Gmail](https://img.shields.io/badge/Gmail-info@honghong.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@honghong.me)
+[![Website Badge](https://img.shields.io/badge/Website-honghong.me-black?style=for-the-badge&logo=googlechrome&logoColor=d64135)](https://honghong.me)
+[![Gmail](https://img.shields.io/badge/Gmail-info@honghong.me-D14836?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:info@honghong.me)
 [![Telegram](https://img.shields.io/badge/Telegram-tszhong0411-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tszhong0411)
-[![Twitter](https://img.shields.io/badge/Twitter-TszhongLai0411-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TszhongLai0411)
-[![YouTube](https://img.shields.io/badge/YouTube-小康-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q)
+[![Twitter](https://img.shields.io/badge/Twitter-TszhongLai0411-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=1da1f2)](https://twitter.com/TszhongLai0411)
+[![YouTube](https://img.shields.io/badge/YouTube-小康-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000)](https://www.youtube.com/channel/UC2hMWOaOlk9vrkvFVaGmn0Q)
 
 ### 📊 Weekly development breakdown
 
