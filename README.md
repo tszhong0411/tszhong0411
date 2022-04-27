@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 30 mins
-
-TypeScript   30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
