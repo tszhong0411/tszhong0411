@@ -23,63 +23,63 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://dev.to/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://twitter.com/tszhonglai0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tszhonglai0411" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15166428/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/TszHong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tszhong" height="30" width="40" /></a>
-<a href="https://fb.com/tszhonglai.0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tszhonglai.0411" height="30" width="40" /></a>
-<a href="https://instagram.com/tszhong0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/小康" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="小康" height="30" width="40" /></a>
-<a href="https://honghong.me/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://honghong.me/feed.xml" height="30" width="40" /></a>
+<a href="https://codepen.io/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/codepen.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://dev.to/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/devto.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://twitter.com/tszhonglai0411" target="blank"><img align="center" src="./assets/images/icons/twitter.svg" alt="tszhonglai0411" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15166428/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/stack-overflow.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/TszHong" target="blank"><img align="center" src="./assets/images/icons/codesandbox.svg" alt="tszhong" height="30" width="40" /></a>
+<a href="https://fb.com/tszhonglai.0411" target="blank"><img align="center" src="./assets/images/icons/facebook.svg" alt="tszhonglai.0411" height="30" width="40" /></a>
+<a href="https://instagram.com/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/instagram.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/小康" target="blank"><img align="center" src="./assets/images/icons/youtube.svg" alt="小康" height="30" width="40" /></a>
+<a href="https://honghong.me/feed.xml" target="blank"><img align="center" src="./assets/images/icons/rss.svg" alt="https://honghong.me/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="./assets/images/icons/html.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="./assets/images/icons/css.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="./assets/images/icons/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="./assets/images/icons/typescript.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="./assets/images/icons/nextjs.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="./assets/images/icons/react.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    <img src="./assets/images/icons/react-native.svg" alt="reactnative" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="./assets/images/icons/figma.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="./assets/images/icons/git.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="hexo.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
+    <img src="./assets/images/icons/hexo.svg" alt="hexo" width="40" height="40"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    <img src="./assets/images/icons/jest.svg" alt="jest" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="./assets/images/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="./assets/images/icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="./assets/images/icons/python.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="./assets/images/icons/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
   </a>
   </p>
 
