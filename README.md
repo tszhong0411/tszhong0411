@@ -5,7 +5,6 @@
 
 <h1>Hi 👋, I'm 小康</h1>
 <h3>A student who loves web development</h3>
-<br />
 
 - 🔭 I’m currently working on [honghong.me](https://github.com/tszhong0411/honghong.me)
 
