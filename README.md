@@ -7,8 +7,6 @@
 <h3>A student who loves web development</h3>
 <br />
 
-<p align="left"> <a href="https://twitter.com/tszhonglai0411" target="blank"><img src="https://img.shields.io/twitter/follow/tszhonglai0411?logo=twitter&style=for-the-badge" alt="tszhonglai0411" /></a> </p>
-
 - 🔭 I’m currently working on [honghong.me](https://github.com/tszhong0411/honghong.me)
 
 - 🌱 I’m currently learning **Next.js**
