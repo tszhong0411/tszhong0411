@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://honghong.me](https://honghong.me)
 
-- 💬 Ask me about **react, next.js**
+- 💬 Ask me about **react, next.js, node.js**
 
 - 📫 How to reach me **info@honghong.me**
 
