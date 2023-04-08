@@ -3,7 +3,7 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=tszhong0411&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
 [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@tszhong0411)
 
-<h1>Hi 👋, I'm 小康</h1>
+<h2>Hi 👋, I'm 小康</h2>
 <h3>A student who loves web development</h3>
 
 - 🔭 I’m currently working on [honghong.me](https://github.com/tszhong0411/honghong.me)
@@ -33,34 +33,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/html.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/css.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/typescript.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/nextjs.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/react.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/react-native.svg" alt="reactnative" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/figma.svg" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/git.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="hexo.io/" target="_blank" rel="noreferrer">
+  <a href="https://hexo.io" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/hexo.svg" alt="hexo" width="40" height="40"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
@@ -80,22 +80,9 @@
   </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tszhong0411&show_icons=true&locale=en&layout=compact" alt="tszhong0411" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tszhong0411&show_icons=true&locale=en" alt="tszhong0411" /></p>
-
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 26 hrs 34 mins
-
-TypeScript   21 hrs 32 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.70 %
-JSON         2 hrs 34 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.38 %
-Other        48 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.93 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
