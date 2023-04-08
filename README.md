@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/codepen.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://dev.to/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/devto.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://dev.to/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/devdotto.svg" alt="tszhong0411" height="30" width="40" /></a>
 <a href="https://twitter.com/tszhonglai0411" target="blank"><img align="center" src="./assets/images/icons/twitter.svg" alt="tszhonglai0411" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15166428/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/stack-overflow.svg" alt="tszhong0411" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15166428/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/stackoverflow.svg" alt="tszhong0411" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/TszHong" target="blank"><img align="center" src="./assets/images/icons/codesandbox.svg" alt="tszhong" height="30" width="40" /></a>
 <a href="https://fb.com/tszhonglai.0411" target="blank"><img align="center" src="./assets/images/icons/facebook.svg" alt="tszhonglai.0411" height="30" width="40" /></a>
 <a href="https://instagram.com/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/instagram.svg" alt="tszhong0411" height="30" width="40" /></a>
@@ -34,10 +34,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/html.svg" alt="html5" width="40" height="40"/>
+    <img src="./assets/images/icons/html5.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/css.svg" alt="css3" width="40" height="40"/>
+    <img src="./assets/images/icons/css3.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/javascript.svg" alt="javascript" width="40" height="40"/>
@@ -46,13 +46,10 @@
     <img src="./assets/images/icons/typescript.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/nextjs.svg" alt="nextjs" width="40" height="40"/>
+    <img src="./assets/images/icons/nextdotjs.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/react.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/react-native.svg" alt="reactnative" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/figma.svg" alt="figma" width="40" height="40"/>
@@ -67,7 +64,7 @@
     <img src="./assets/images/icons/jest.svg" alt="jest" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
+    <img src="./assets/images/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="./assets/images/icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
