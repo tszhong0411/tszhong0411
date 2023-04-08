@@ -1,4 +1,4 @@
-[![honghong's GitHub Banner](./assets/images/header.png)](https://honghong.me)
+[![小康's GitHub Banner](./assets/images/header.png)](https://honghong.me)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=tszhong0411&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
 [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@tszhong0411)
@@ -6,9 +6,9 @@
 <h2>Hi 👋, I'm 小康</h2>
 <h3>A student who loves web development</h3>
 
-- 🔭 I’m currently working on [honghong.me](https://github.com/tszhong0411/honghong.me)
+- 🔭 I'm currently working on [honghong.me](https://github.com/tszhong0411/honghong.me)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I'm currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://honghong.me/projects](https://honghong.me/projects)
 
@@ -19,63 +19,56 @@
 - 📫 How to reach me **info@honghong.me**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/codepen.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://dev.to/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/devdotto.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://twitter.com/tszhonglai0411" target="blank"><img align="center" src="./assets/images/icons/twitter.svg" alt="tszhonglai0411" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15166428/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/stackoverflow.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/TszHong" target="blank"><img align="center" src="./assets/images/icons/codesandbox.svg" alt="tszhong" height="30" width="40" /></a>
-<a href="https://fb.com/tszhonglai.0411" target="blank"><img align="center" src="./assets/images/icons/facebook.svg" alt="tszhonglai.0411" height="30" width="40" /></a>
-<a href="https://instagram.com/tszhong0411" target="blank"><img align="center" src="./assets/images/icons/instagram.svg" alt="tszhong0411" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/小康" target="blank"><img align="center" src="./assets/images/icons/youtube.svg" alt="小康" height="30" width="40" /></a>
-<a href="https://honghong.me/feed.xml" target="blank"><img align="center" src="./assets/images/icons/rss.svg" alt="https://honghong.me/feed.xml" height="30" width="40" /></a>
-</p>
+
+[<img align="center" src="./assets/images/icons/light/codepen.svg" height="30" width="40" />](https://codepen.io/tszhong0411#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/codepen.svg" height="30" width="40" />](https://codepen.io/tszhong0411#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/devdotto.svg" height="30" width="40" />](https://dev.to/tszhong0411#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/devdotto.svg" height="30" width="40" />](https://dev.to/tszhong0411#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/twitter.svg" height="30" width="40" />](https://twitter.com/tszhonglai0411#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/twitter.svg" height="30" width="40" />](https://twitter.com/tszhonglai0411#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/stackoverflow.svg" height="30" width="40" />](https://stackoverflow.com/users/15166428/tszhong0411#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/stackoverflow.svg" height="30" width="40" />](https://stackoverflow.com/users/15166428/tszhong0411#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/codesandbox.svg" height="30" width="40" />](https://codesandbox.io/u/TszHong#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/codesandbox.svg" height="30" width="40" />](https://codesandbox.io/u/TszHong#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/facebook.svg" height="30" width="40" />](https://fb.com/tszhonglai.0411#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/facebook.svg" height="30" width="40" />](https://fb.com/tszhonglai.0411#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/instagram.svg" height="30" width="40" />](https://instagram.com/tszhong0411#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/instagram.svg" height="30" width="40" />](https://instagram.com/tszhong0411#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/youtube.svg" height="30" width="40" />](https://www.youtube.com/c/小康#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/youtube.svg" height="30" width="40" />](https://www.youtube.com/c/小康#gh-dark-mode-only)
+[<img align="center" src="./assets/images/icons/light/rss.svg" height="30" width="40" />](https://honghong.me/rss.xml#gh-light-mode-only)
+[<img align="center" src="./assets/images/icons/dark/rss.svg" height="30" width="40" />](https://honghong.me/rss.xml#gh-dark-mode-only)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/html5.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/css3.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/javascript.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/typescript.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/nextdotjs.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/react.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/figma.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/git.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://hexo.io" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/hexo.svg" alt="hexo" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/jest.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/python.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  </p>
+
+[<img src="./assets/images/icons/light/html5.svg" width="40" height="40"/>](https://html.spec.whatwg.org/#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/html5.svg" width="40" height="40"/>](https://html.spec.whatwg.org/#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/css3.svg" width="40" height="40"/>](https://www.w3.org/Style/CSS/#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/css3.svg" width="40" height="40"/>](https://www.w3.org/Style/CSS/#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/javascript.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/javascript.svg" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/typescript.svg" width="40" height="40"/>](https://www.typescriptlang.org#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/typescript.svg" width="40" height="40"/>](https://www.typescriptlang.org#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/nextdotjs.svg" width="40" height="40"/>](https://nextjs.org#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/nextdotjs.svg" width="40" height="40"/>](https://nextjs.org#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/react.svg" width="40" height="40"/>](https://reactjs.org#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/react.svg" width="40" height="40"/>](https://reactjs.org#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/figma.svg" width="40" height="40"/>](https://www.figma.com#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/figma.svg" width="40" height="40"/>](https://www.figma.com#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/git.svg" width="40" height="40"/>](https://git-scm.com#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/git.svg" width="40" height="40"/>](https://git-scm.com#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/hexo.svg" width="40" height="40"/>](https://hexo.io#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/hexo.svg" width="40" height="40"/>](https://hexo.io#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/jest.svg" width="40" height="40"/>](https://jestjs.io#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/jest.svg" width="40" height="40"/>](https://jestjs.io#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/nodedotjs.svg" width="40" height="40"/>](https://nodejs.org#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/nodedotjs.svg" width="40" height="40"/>](https://nodejs.org#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/postgresql.svg" width="40" height="40"/>](https://www.postgresql.org#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/postgresql.svg" width="40" height="40"/>](https://www.postgresql.org#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/python.svg" width="40" height="40"/>](https://www.python.org#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/python.svg" width="40" height="40"/>](https://www.python.org#gh-dark-mode-only)
+[<img src="./assets/images/icons/light/tailwindcss.svg" width="40" height="40"/>](https://tailwindcss.com/#gh-light-mode-only)
+[<img src="./assets/images/icons/dark/tailwindcss.svg" width="40" height="40"/>](https://tailwindcss.com/#gh-dark-mode-only)
 
 ### 📊 Weekly development breakdown
 

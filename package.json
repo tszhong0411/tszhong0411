@@ -1,6 +1,13 @@
 {
   "name": "tszhong0411",
-  "author": "tszhong0411 <lainelson411@gmail.com>",
+  "description": "My github profile",
+  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/tszhong0411/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tszhong0411/tszhong0411.git"
+  },
+  "private": true,
+  "version": "0.0.0",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
