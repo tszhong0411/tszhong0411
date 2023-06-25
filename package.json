@@ -1,13 +1,13 @@
 {
-  "name": "tszhong0411",
+  "name": "codewithhong",
   "private": true,
   "version": "0.0.0",
   "license": "MIT",
   "description": "My github profile",
-  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/tszhong0411/)",
+  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/codewithhong/)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tszhong0411/tszhong0411.git"
+    "url": "git+https://github.com/codewithhong/codewithhong.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
