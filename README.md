@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, next.js, node.js**
 
-- 📫 How to reach me **info@honghong.me**
+- 📫 How to reach me **me@honghong.me**
 
 <h3>Languages and Tools:</h3>
 
@@ -27,17 +27,6 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 12 hrs 8 mins
-
-JSON           5 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.38 %
-TypeScript     4 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.53 %
-Bash           55 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.57 %
-JavaScript     33 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.58 %
-ActionScript   12 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.77 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
