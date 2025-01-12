@@ -3,8 +3,8 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=tszhong0411&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
 [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@tszhong0411)
 
-<h2>Hi 👋, I'm Hong</h2>
-<h3>A teenager who loves programming</h3>
+<h2>Hi 👋, my name is Tsz-Hong Lai</h2>
+<h3>A Full Stack Engineer</h3>
 
 - 🔭 I'm currently working on [honghong.me](https://github.com/tszhong0411/honghong.me)
 
@@ -27,17 +27,6 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 52 hrs 14 mins
-
-TypeScript    43 hrs 1 min    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀   81.52 %
-JSON          3 hrs 10 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.02 %
-MDX           2 hrs 7 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.01 %
-JavaScript    1 hr 42 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.22 %
-Markdown      1 hr 28 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.80 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
